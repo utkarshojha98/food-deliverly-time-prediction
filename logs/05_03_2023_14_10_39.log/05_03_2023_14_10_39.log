@@ -1,0 +1,8 @@
+[ 2023-05-03 14:10:42,213 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-03 14:10:42,216 ] 224 werkzeug - INFO -  * Debugger PIN: 137-279-808
+[ 2023-05-03 14:11:13,633 ] 224 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 14:11:13] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-05-03 14:11:13,754 ] 224 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 14:11:13] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 14:11:13,757 ] 224 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 14:11:13] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 14:11:13,775 ] 224 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 14:11:13] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 14:11:13,813 ] 224 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 14:11:13] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 14:11:32,267 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\utkar\\OneDrive\\Documents\\dilevery time\\app.py', reloading

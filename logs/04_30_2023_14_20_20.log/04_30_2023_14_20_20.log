@@ -1,0 +1,31 @@
+[ 2023-04-30 14:20:22,269 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-04-30 14:20:22,269 ] 224 werkzeug - INFO -  * Debugger PIN: 434-569-952
+[ 2023-04-30 14:21:09,073 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:21:09] "GET /predict HTTP/1.1" 200 -
+[ 2023-04-30 14:21:11,724 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:21:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-04-30 14:24:50,188 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:24:50] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-04-30 14:24:50,389 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:24:50] "GET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2023-04-30 14:24:50,397 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:24:50] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2023-04-30 14:24:50,490 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:24:50] "GET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2023-04-30 14:24:50,541 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:24:50] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-04-30 14:26:10,088 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:26:10] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-04-30 14:26:10,118 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:26:10] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-04-30 14:26:10,130 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:26:10] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-04-30 14:26:10,166 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:26:10] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-04-30 14:26:10,184 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:26:10] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-04-30 14:34:22,714 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:34:22] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-04-30 14:34:22,748 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:34:22] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-04-30 14:34:22,757 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:34:22] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-04-30 14:34:22,795 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:34:22] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-04-30 14:34:22,816 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:34:22] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-04-30 14:34:47,286 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:34:47] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-04-30 14:34:47,312 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:34:47] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-04-30 14:34:47,321 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:34:47] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-04-30 14:34:47,337 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:34:47] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-04-30 14:34:47,351 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:34:47] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-04-30 14:34:53,207 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:34:53] "GET /predict HTTP/1.1" 200 -
+[ 2023-04-30 14:35:20,624 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:35:20] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-04-30 14:35:20,658 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:35:20] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-04-30 14:35:20,659 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:35:20] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-04-30 14:35:20,677 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:35:20] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-04-30 14:35:20,746 ] 224 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2023 14:35:20] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-04-30 14:36:14,540 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\utkar\\OneDrive\\Documents\\dilevery time\\app.py', reloading

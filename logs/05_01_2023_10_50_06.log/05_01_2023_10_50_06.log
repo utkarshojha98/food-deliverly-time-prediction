@@ -1,0 +1,10 @@
+[ 2023-05-01 10:50:08,913 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-01 10:50:08,913 ] 224 werkzeug - INFO -  * Debugger PIN: 137-279-808
+[ 2023-05-01 10:50:14,557 ] 224 werkzeug - INFO - 127.0.0.1 - - [01/May/2023 10:50:14] "GET /predict HTTP/1.1" 200 -
+[ 2023-05-01 10:50:14,654 ] 224 werkzeug - INFO - 127.0.0.1 - - [01/May/2023 10:50:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-05-01 10:50:43,981 ] 224 werkzeug - INFO - 127.0.0.1 - - [01/May/2023 10:50:43] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-05-01 10:50:44,107 ] 224 werkzeug - INFO - 127.0.0.1 - - [01/May/2023 10:50:44] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-05-01 10:50:44,110 ] 224 werkzeug - INFO - 127.0.0.1 - - [01/May/2023 10:50:44] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-05-01 10:50:44,160 ] 224 werkzeug - INFO - 127.0.0.1 - - [01/May/2023 10:50:44] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-05-01 10:50:44,231 ] 224 werkzeug - INFO - 127.0.0.1 - - [01/May/2023 10:50:44] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-05-01 11:12:15,496 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\utkar\\OneDrive\\Documents\\dilevery time\\src\\components\\data_ingestion.py', reloading

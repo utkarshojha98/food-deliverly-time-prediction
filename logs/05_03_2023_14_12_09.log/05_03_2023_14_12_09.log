@@ -1,0 +1,23 @@
+[ 2023-05-03 14:12:12,061 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-03 14:12:12,065 ] 224 werkzeug - INFO -  * Debugger PIN: 137-279-808
+[ 2023-05-03 14:12:38,212 ] 107 root - INFO - Dataframe Gathered
+[ 2023-05-03 14:12:38,510 ] 28 root - INFO - Exception occured in prediction
+[ 2023-05-03 14:12:38,589 ] 224 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 14:12:38] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-05-03 14:12:38,733 ] 224 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 14:12:38] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 14:12:38,734 ] 224 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 14:12:38] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 14:12:38,819 ] 224 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 14:12:38] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 14:12:39,040 ] 224 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 14:12:39] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 14:17:16,872 ] 107 root - INFO - Dataframe Gathered
+[ 2023-05-03 14:17:16,885 ] 28 root - INFO - Exception occured in prediction
+[ 2023-05-03 14:17:16,974 ] 224 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 14:17:16] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-05-03 14:17:17,003 ] 224 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 14:17:17] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 14:17:17,006 ] 224 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 14:17:17] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 14:17:17,042 ] 224 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 14:17:17] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 14:17:17,129 ] 224 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 14:17:17] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 14:21:57,745 ] 107 root - INFO - Dataframe Gathered
+[ 2023-05-03 14:21:57,762 ] 28 root - INFO - Exception occured in prediction
+[ 2023-05-03 14:21:57,847 ] 224 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 14:21:57] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-05-03 14:21:57,879 ] 224 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 14:21:57] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-05-03 14:21:57,888 ] 224 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 14:21:57] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-05-03 14:21:57,946 ] 224 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 14:21:57] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-05-03 14:21:58,090 ] 224 werkzeug - INFO - 127.0.0.1 - - [03/May/2023 14:21:58] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
